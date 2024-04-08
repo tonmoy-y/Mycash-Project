@@ -1,4 +1,6 @@
-<centre><h1>MyCash</h1></centre>
+<center>
+    <h1>MyCash</h1>
+</center>
 
 <p><i>Mycash is a simple project which is an online payment system. Instructions were given by <b>Shahiduzzaman Sir and Shyla Ma'am.</b></i></p>
 
